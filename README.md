@@ -1,4 +1,8 @@
-# fresh project
+# fresh project CRUD Firestore
+## add Firebase Key From YOu Dashboard . and Edit
+
+## file firebaseconfig/firebase.ts and paste you key
+
 
 ### Usage
 
